@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yahya AlSaidi, a Senior Software Engineer passionate about building scalable and efficient solutions. I enjoy working with various technologies and exploring new tools. Here are some of the technologies I frequently work with:
+I'm Yahya Al-Saidi, a Senior Software Engineer passionate about building scalable and efficient solutions. I enjoy working with various technologies and exploring new tools. Here are some of the technologies I frequently work with:
 
 ## 🚀 Technologies & Tools
 
